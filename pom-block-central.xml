@@ -10,7 +10,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<nexus.server.ip>3.90.37.145</nexus.server.ip>
+		<nexus.server.ip>publicIP</nexus.server.ip>
 	</properties>
 
 	<build>
